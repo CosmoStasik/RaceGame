@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "61084056-seamless-texture-highway-asphalt-road-with-yellow-stripes-2d-illustration.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
